@@ -1,0 +1,1 @@
+- Esse é um conversor de texto para voz, onde podemos escrever texto em qualquer idioma e ele pronunciará, ele foi criado com HTML, CSS e JavaScript
